@@ -30,6 +30,28 @@ def getScore(player,statsList):
         playerstats=playerstats[playerstats.find(",")+1:]
     return playerScore
 
+
+
+def padStats(player,statsList):
+    playerstats=player[player.find("%")+1:]+","
+    padded = []
+
+    for num,stat in enumerate(statsList):
+
+        statname=stat[:stat.find("=")]+":"
+
+        if playerstats.find(statname)==-1:
+            padded.append(0)
+        else:
+            statpos=playerstats.find(statname)
+            temp = playerstats[playerstats.find(":",statpos)+1:playerstats.find(",",statpos)]
+            #temp = playerstats[statpos:playerstats.find(":",statpos)]
+            padded.append(temp.strip())
+
+    return padded
+
+
+
 def getFantScoring(filename):
     fantStats=open(filename,"r")
     fantScoring=[]

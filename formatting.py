@@ -14,6 +14,6 @@ def retName(input):
 def retID(input):
     return input[input.find("#")+1:input.find("$")]
 def retTeam(input):
-    return input[input.find("$"):input.find("&")]
+    return input[input.find("$")+1:]
 def retPos(input):
     return input[input.find("&")+1:input.find("$")]

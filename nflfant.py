@@ -75,8 +75,8 @@ for x in team_list:
         first=first[:first.find(" ")].strip()
         outSheet.write(row_count,0,first)
         outSheet.write(row_count,1,last)
-        outSheet.write(row_count,2,retTeam(y))
-        outSheet.write(row_count,3,retPos(y))
+        outSheet.write(row_count,2,y[y.find("$")+1:y.find("&")])
+        outSheet.write(row_count,3,y[y.find("&")+1:y.find("%")])
         outSheet.write(row_count,4,retID(y))
         for z, statval in enumerate(padStats(y,fantScoring)):
             outSheet.write(row_count,z+5,statval)

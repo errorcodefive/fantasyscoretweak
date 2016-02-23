@@ -1,0 +1,87 @@
+1.
+Russell Wilson
+QB - SEAPICK 8
+2.
+J.J. Watt
+DL - HOUPICK 9
+3.
+Jimmy Graham
+TE - SEAPICK 24
+4.
+Matthew Stafford
+QB - DETPICK 25
+5.
+Victor Cruz
+WR - NYGPICK 40
+6.
+DeSean Jackson
+WR - WASPICK 41
+7.
+Julian Edelman
+WR - NEPICK 56
+8.
+Luke Kuechly
+LB - CARPICK 57
+9.
+Terrell Suggs
+LB - BALPICK 72
+10.
+Richard Sherman
+DB - SEAPICK 73
+11.
+Todd Gurley
+RB - STLPICK 88
+12.
+Khalil Mack
+DL - OAKPICK 89
+13.
+Giovani Bernard
+RB - CINPICK 104
+14.
+Joe Haden
+DB - CLEPICK 105
+15.
+DeMarcus Ware
+DL - DENPICK 120
+16.
+Darrelle Revis
+DB - NYJPICK 121
+17.
+Devin Hester
+WR - ATLPICK 136
+18.
+Colin Kaepernick
+QB - SFPICK 137
+19.
+Roddy White
+WR - ATLPICK 152
+20.
+Steve Smith
+WR - BALPICK 153
+21.
+Dontari Poe
+DL - KCPICK 168
+22.
+Julius Peppers
+LB - GBPICK 169
+23.
+Devonta Freeman
+RB - ATLPICK 184
+24.
+Coby Fleener
+TE - INDPICK 185
+25.
+Matt Prater
+K - DETPICK 200
+26.
+Dont'a Hightower
+LB - NEPICK 201
+27.
+Elvis Dumervil
+LB - BALPICK 216
+28.
+Darren McFadden
+RB - DALPICK 217
+29.
+Kendall Wright
+WR - TENPICK 232

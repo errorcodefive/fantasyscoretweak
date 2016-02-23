@@ -1,29 +1,696 @@
-QB Aaron Rodgers	WR A.J. Green	QB Peyton Manning	QB Andrew Luck	RB Adrian Peterson	QB Drew Brees	QB Tom Brady	QB Russell Wilson
-RB Jamaal Charles	RB Marshawn Lynch	TE Rob Gronkowski	RB Arian Foster	RB Le'Veon Bell	QB Ben Roethlisberger	RB Eddie Lacy	DL J.J. Watt
-WR Antonio Brown	QB Cam Newton	WR Dez Bryant	RB CJ Anderson	QB Matt Ryan	WR Julio Jones	WR Jeremy Maclin	TE Jimmy Graham
-WR Calvin Johnson	WR Demaryius Thomas	RB Jeremy Hill	WR Odell Beckham	QB Tony Romo	RB Matt Forte	WR Amari Cooper	QB Matthew Stafford
-RB Demarco Murray	WR Alshon Jeffery	RB Lesean McCoy	RB Frank Gore	WR Mike Evans	RB Mark Ingram	WR Keenan Allen	WR Victory Cruz
-RB Justin Forsett	RB Lamar Miller	WR Emmanuel Sanders	WR Randall Cobb	WR Jordan Matthews	WR TY Hilton	RB LaGarrette Blount	WR DeSean Jackson
-WR Davante Adams	QB Ryan Tannehill	WR Brandin Cooks	RB Latavius Murray	RB Melvin Gordon	WR DeAndre Hopkins	WR Charles Johnson	WR Julian Edelman
-RB Alfred Morris	LB Lavonte David	WR Golden Tate	WR Brandon Marshall	K Stephen Gostkowski	WR Andre Johnson	QB Ryan Fitzpatrick	LB Luke Kuechly
-TE Travis Kelce	DB Harrison Smith	RB Joseph Randle	WR Sammy Watkins	WR Mike Wallace	WR Jarvis Landry	LB Bobby Wagner	DL Terrell Suggs
-QB Eli Manning	DL Calais Campbell	QB Philip Rivers	RB Alfred Blue	LB DeAndre Levy	TE Greg Olsen	DL Robert Quinn	DB Richard Sherman
-DL Everson Griffen	K Cody Parkey	WR Vincent Jackson	QB Sam Bradford	WR Anquan Boldin	K Adam Vinatieri 	DL Aaron Donald	RB Todd Gurley
-LB Ryan Kerrigan	DL Carlos Dunlap	RB Jonathan Stewart	RB CJ Spiller	LB CJ Mosley	DL Chandler Jones	LB Justin Houston	LB Khalil Mack
-LB Clay Matthews	RB Andre Ellington	RB Carlos Hyde	RB Ameer Abdullah	LB Stephan Anthony	LB Alec Ogletree	TE Dwayne Allen	RB Giovani Bernard
-DL Mario Williams	TE Martellus Bennett	DL Ndamukong Suh	WR Martavis Bryant	RB Tevin Coleman	LB Jamie Collins	LB Eric Kendricks	DB Joe Haden
-LB Von Miller	RB Isiah Crowell	LB Connor Barwin	TE Jason Witten	TE Zach Ertz	LB Carlos Dansby	WR Marques Colston	DL DeMarcus Ware
-DL Rob Ninkovich	LB Brandon Marshall	DL Jerry Hughes	DB Jairus Byrd	DL Mohammad Wilkerson	DB Eric Weddle	DL Leonard Williams	DB Darrelle Revis
-QB Joe Flacco	DB Morgan Burnett	QB Carson Palmer	LB Paul Posluzny	DB Reshad Jones	DB Jonathan Cyprien	DL Justin Tuck	WR Devin Hester
-LB DQwell Jackson	LB Navarro Bowman	WR Allen Robinson	LB Brian Orakpo	QB Teddy Bridgewater	DL Cameron Jordan	DB Deone Bucannon	QB Colin Kaepernick
-LB Paul Worrilow	DB Tyrann Mathieu	DL Ezekiel Ansah	LB Kiko Alsonso	LB Curtis Lofton	DL Fletcher Cox	LB Jerrell Freeman	WR Roddy White
-RB Joique Bell	DL Jason -Pierre-Paul	LB Sean Lee	DL Michael Bennett	DL Olivier Vernon	DL Kyle Williams	DB DJ Swearinger	WR Steve Smith Sr.
-DB TJ McDonald	QB Marcus Mariota	DB Michael Griffen	DL Timmy Jernigan	LB Demario Davis	RB Rashad Jennings	WR Danny Amendola	DL Dontari Poe
-DL Geno Atkins	DL Cameron Wake	LB Jerod Mayo	DB Kam Chancellor	DB Earl Thomas	WR Torrey Smith	QB Jay Cutler	LB Julius Peppers
-DB Taushaun Gipson	WR John Brown	DB Antrel Rolle	DL Marcell Dareus	DB Charles Woodson	TE Julius Thomas	WR Eric Decker	RB Devonta Freeman
-RB Ryan Mathews	RB TJ Yeldon	DL Chris Long	LB Anthony Barr	WR Doug Baldwin	QB Nick Foles	QB AJ McCarron	TE Coby Fleener
-WR Jordy Nelson	RB Chris Ivory	DL Michael Johnson	LB Nigel Bradham	DL Greg Hardy	QB Alex Smith	RB LaMichael James	K Matt Prater
-K Mason Crosby	WR Chris Matthews	K Justin Haushcka	K Justin Tucker	WR Terrence Williams	RB Tre Mason	K Dan Bailey	LB Dont'A Hightower
-RB Kniles Davis	WR Nelson Agholor	RB Doug Martin	RB Shane Vereen	DB Haha Clinton Dix	WR Michael Crabtree	WR Lance Moore	LB Elvis Dumervil
-WR Brandon LaFell	RB Charles Sims	RB Ronny Hillman	WR Kenny Stills	DL Corey Liuget	WR Larry Fitzgerald	LB Kyle Van Noy	RB Darren McFadden
-WR Cody Latimer	RB Terrance West	DL Jelani Jenkins	RB Bishop Sankey	RB DeAngelo Williams	QB Josh McCown	QB Andy Dalton	WR Kendall Wright
+1.
+Russell Wilson
+QB - SEAPICK 8
+2.
+J.J. Watt
+DL - HOUPICK 9
+3.
+Jimmy Graham
+TE - SEAPICK 24
+4.
+Matthew Stafford
+QB - DETPICK 25
+5.
+Victor Cruz
+WR - NYGPICK 40
+6.
+DeSean Jackson
+WR - WASPICK 41
+7.
+Julian Edelman
+WR - NEPICK 56
+8.
+Luke Kuechly
+LB - CARPICK 57
+9.
+Terrell Suggs
+LB - BALPICK 72
+10.
+Richard Sherman
+DB - SEAPICK 73
+11.
+Todd Gurley
+RB - STLPICK 88
+12.
+Khalil Mack
+DL - OAKPICK 89
+13.
+Giovani Bernard
+RB - CINPICK 104
+14.
+Joe Haden
+DB - CLEPICK 105
+15.
+DeMarcus Ware
+DL - DENPICK 120
+16.
+Darrelle Revis
+DB - NYJPICK 121
+17.
+Devin Hester
+WR - ATLPICK 136
+18.
+Colin Kaepernick
+QB - SFPICK 137
+19.
+Roddy White
+WR - ATLPICK 152
+20.
+Steve Smith
+WR - BALPICK 153
+21.
+Dontari Poe
+DL - KCPICK 168
+22.
+Julius Peppers
+LB - GBPICK 169
+23.
+Devonta Freeman
+RB - ATLPICK 184
+24.
+Coby Fleener
+TE - INDPICK 185
+25.
+Matt Prater
+K - DETPICK 200
+26.
+Dont'a Hightower
+LB - NEPICK 201
+27.
+Elvis Dumervil
+LB - BALPICK 216
+28.
+Darren McFadden
+RB - DALPICK 217
+29.
+Kendall Wright
+WR - TENPICK 232
+1.
+Tom Brady
+QB - NEPICK 7
+2.
+Eddie Lacy
+RB - GBPICK 10
+3.
+Jeremy Maclin
+WR - KCPICK 23
+4.
+Amari Cooper
+WR - OAKPICK 26
+5.
+Keenan Allen
+WR - SDPICK 39
+6.
+LeGarrette Blount
+RB - NEPICK 42
+7.
+Charles Johnson
+WR - MINPICK 55
+8.
+Ryan Fitzpatrick
+QB - NYJPICK 58
+9.
+Bobby Wagner
+LB - SEAPICK 71
+10.
+Robert Quinn
+DL - STLPICK 74
+11.
+Aaron Donald
+DL - STLPICK 87
+12.
+Justin Houston
+LB - KCPICK 90
+13.
+Dwayne Allen
+TE - INDPICK 103
+14.
+Eric Kendricks
+LB - MINPICK 106
+15.
+Marques Colston
+WR - NOPICK 119
+16.
+Leonard Williams
+DL - NYJPICK 122
+17.
+Justin Tuck
+DL - OAKPICK 135
+18.
+Deone Bucannon
+DB - ARIPICK 138
+19.
+Jerrell Freeman
+LB - INDPICK 151
+20.
+D.J. Swearinger
+DB - ARIPICK 154
+21.
+Danny Amendola
+WR - NEPICK 167
+22.
+Jay Cutler
+QB - CHIPICK 170
+23.
+Eric Decker
+WR - NYJPICK 183
+24.
+AJ McCarron
+QB - CINPICK 186
+25.
+LaMichael James
+RBPICK 199
+26.
+Dan Bailey
+K - DALPICK 202
+27.
+Lance Moore
+WR - DETPICK 215
+28.
+Kyle Van Noy
+LB - DETPICK 218
+29.
+Andy Dalton
+QB - CINPICK 231
+1.
+Aaron Rodgers
+QB - GBPICK 1
+2.
+Jamaal Charles
+RB - KCPICK 16
+3.
+Antonio Brown
+WR - PITPICK 17
+4.
+Dez Bryant
+WR - DALPICK 32
+5.
+Calvin Johnson
+WR - DETPICK 33
+6.
+DeMarco Murray
+RB - PHIPICK 48
+7.
+Justin Forsett
+RB - BALPICK 49
+8.
+Davante Adams
+WR - GBPICK 64
+9.
+Alfred Morris
+RB - WASPICK 65
+10.
+Travis Kelce
+TE - KCPICK 80
+11.
+Eli Manning
+QB - NYGPICK 81
+12.
+Everson Griffen
+DL - MINPICK 96
+13.
+Ryan Kerrigan
+LB - WASPICK 97
+14.
+Clay Matthews
+LB - GBPICK 112
+15.
+Mario Williams
+DL - BUFPICK 113
+16.
+Von Miller
+LB - DENPICK 128
+17.
+Rob Ninkovich
+DL - NEPICK 129
+18.
+Joe Flacco
+QB - BALPICK 144
+19.
+D'Qwell Jackson
+LB - INDPICK 145
+20.
+Paul Worrilow
+LB - ATLPICK 160
+21.
+Joique Bell
+RB - DETPICK 161
+22.
+T.J. McDonald
+DB - STLPICK 176
+23.
+Geno Atkins
+DL - CINPICK 177
+24.
+Tashaun Gipson
+DB - CLEPICK 192
+25.
+Ryan Mathews
+RB - PHIPICK 193
+26.
+Jordy Nelson
+WR - GBPICK 208
+27.
+Mason Crosby
+K - GBPICK 209
+28.
+Knile Davis
+RB - KCPICK 224
+29.
+Brandon LaFell
+WR - NEPICK 225
+1.
+Andrew Luck
+QB - INDPICK 4
+2.
+Arian Foster
+RB - HOUPICK 13
+3.
+C.J. Anderson
+RB - DENPICK 20
+4.
+Odell Beckham
+WR - NYGPICK 29
+5.
+Frank Gore
+RB - INDPICK 36
+6.
+Randall Cobb
+WR - GBPICK 45
+7.
+Latavius Murray
+RB - OAKPICK 52
+8.
+Brandon Marshall
+WR - NYJPICK 61
+9.
+Sammy Watkins
+WR - BUFPICK 68
+10.
+Alfred Blue
+RB - HOUPICK 77
+11.
+Sam Bradford
+QB - PHIPICK 84
+12.
+C.J. Spiller
+RB - NOPICK 93
+13.
+Ameer Abdullah
+RB - DETPICK 100
+14.
+Martavis Bryant
+WR - PITPICK 109
+15.
+Jason Witten
+TE - DALPICK 116
+16.
+Jairus Byrd
+DB - NOPICK 125
+17.
+Paul Posluszny
+LB - JACPICK 132
+18.
+Brian Orakpo
+LB - TENPICK 141
+19.
+Kiko Alonso
+LB - PHIPICK 148
+20.
+Michael Bennett
+DL - SEAPICK 157
+21.
+Timmy Jernigan
+DL - BALPICK 164
+22.
+Kam Chancellor
+DB - SEAPICK 173
+23.
+Marcell Dareus
+DL - BUFPICK 180
+24.
+Anthony Barr
+LB - MINPICK 189
+25.
+Nigel Bradham
+LB - BUFPICK 196
+26.
+Justin Tucker
+K - BALPICK 205
+27.
+Shane Vereen
+RB - NYGPICK 212
+28.
+Kenny Stills
+WR - MIAPICK 221
+29.
+Bishop Sankey
+RB - TENPICK 228
+1.
+Peyton Manning
+QB - DENPICK 3
+2.
+Rob Gronkowski
+TE - NEPICK 14
+3.
+Jeremy Hill
+RB - CINPICK 19
+4.
+LeSean McCoy
+RB - BUFPICK 30
+5.
+Emmanuel Sanders
+WR - DENPICK 35
+6.
+Brandin Cooks
+WR - NOPICK 46
+7.
+Golden Tate
+WR - DETPICK 51
+8.
+Joseph Randle
+RBPICK 62
+9.
+Philip Rivers
+QB - SDPICK 67
+10.
+Vincent Jackson
+WR - TBPICK 78
+11.
+Jonathan Stewart
+RB - CARPICK 83
+12.
+Carlos Hyde
+RB - SFPICK 94
+13.
+Ndamukong Suh
+DL - MIAPICK 99
+14.
+Connor Barwin
+LB - PHIPICK 110
+15.
+Jerry Hughes
+DL - BUFPICK 115
+16.
+Carson Palmer
+QB - ARIPICK 126
+17.
+Allen Robinson
+WR - JACPICK 131
+18.
+Ezekiel Ansah
+DL - DETPICK 142
+19.
+Sean Lee
+LB - DALPICK 147
+20.
+Michael Griffin
+DB - TENPICK 158
+21.
+Jerod Mayo
+LB - NEPICK 163
+22.
+Antrel Rolle
+DB - CHIPICK 174
+23.
+Chris Long
+DL - STLPICK 179
+24.
+Michael Johnson
+DL - CINPICK 190
+25.
+Steven Hauschka
+K - SEAPICK 195
+26.
+Doug Martin
+RB - TBPICK 206
+27.
+Ronnie Hillman
+RB - DENPICK 211
+28.
+Cody Latimer
+WR - DENPICK 222
+29.
+Jelani Jenkins
+LB - MIAPICK 227
+1.
+A.J. Green
+WR - CINPICK 2
+2.
+Marshawn Lynch
+RB - SEAPICK 15
+3.
+Cam Newton
+QB - CARPICK 18
+4.
+Demaryius Thomas
+WR - DENPICK 31
+5.
+Alshon Jeffery
+WR - CHIPICK 34
+6.
+Lamar Miller
+RB - MIAPICK 47
+7.
+Ryan Tannehill
+QB - MIAPICK 50
+8.
+Lavonte David
+LB - TBPICK 63
+9.
+Harrison Smith
+DB - MINPICK 66
+10.
+Calais Campbell
+DL - ARIPICK 79
+11.
+Cody Parkey
+K - PHIPICK 82
+12.
+Carlos Dunlap
+DL - CINPICK 95
+13.
+Andre Ellington
+RB - ARIPICK 98
+14.
+Martellus Bennett
+TE - CHIPICK 111
+15.
+Isaiah Crowell
+RB - CLEPICK 114
+16.
+Brandon Marshall
+LB - DENPICK 127
+17.
+Morgan Burnett
+DB - GBPICK 130
+18.
+NaVorro Bowman
+LB - SFPICK 143
+19.
+Tyrann Mathieu
+DB - ARIPICK 146
+20.
+Jason Pierre-Paul
+DL - NYGPICK 159
+21.
+Marcus Mariota
+QB - TENPICK 162
+22.
+Cameron Wake
+DL - MIAPICK 175
+23.
+John Brown
+WR - ARIPICK 178
+24.
+T.J. Yeldon
+RB - JACPICK 191
+25.
+Chris Ivory
+RB - NYJPICK 194
+26.
+Chris Matthews
+WR - BALPICK 207
+27.
+Nelson Agholor
+WR - PHIPICK 210
+28.
+Charles Sims
+RB - TBPICK 223
+29.
+Terrance West
+RB - BALPICK 226
+1.
+Drew Brees
+QB - NOPICK 6
+2.
+Ben Roethlisberger
+QB - PITPICK 11
+3.
+Julio Jones
+WR - ATLPICK 22
+4.
+Matt Forte
+RB - CHIPICK 27
+5.
+Mark Ingram
+RB - NOPICK 38
+6.
+T.Y. Hilton
+WR - INDPICK 43
+7.
+DeAndre Hopkins
+WR - HOUPICK 54
+8.
+Andre Johnson
+WR - INDPICK 59
+9.
+Jarvis Landry
+WR - MIAPICK 70
+10.
+Greg Olsen
+TE - CARPICK 75
+11.
+Adam Vinatieri
+K - INDPICK 86
+12.
+Chandler Jones
+DL - NEPICK 91
+13.
+Alec Ogletree
+LB - STLView NewsPICK 102
+14.
+Jamie Collins
+LB - NEPICK 107
+15.
+Karlos Dansby
+LB - CLEPICK 118
+16.
+Eric Weddle
+DB - SDPICK 123
+17.
+Johnathan Cyprien
+DB - JACPICK 134
+18.
+Cameron Jordan
+DL - NOPICK 139
+19.
+Fletcher Cox
+DL - PHIPICK 150
+20.
+Kyle Williams
+DL - BUFPICK 155
+21.
+Rashad Jennings
+RB - NYGPICK 166
+22.
+Torrey Smith
+WR - SFPICK 171
+23.
+Julius Thomas
+TE - JACPICK 182
+24.
+Nick Foles
+QB - STLPICK 187
+25.
+Alex Smith
+QB - KCPICK 198
+26.
+Tre Mason
+RB - STLPICK 203
+27.
+Michael Crabtree
+WR - OAKPICK 214
+28.
+Larry Fitzgerald
+WR - ARIPICK 219
+29.
+Josh McCown
+QB - CLEPICK 230
+1.
+Adrian Peterson
+RB - MINPICK 5
+2.
+Le'Veon Bell
+RB - PITPICK 12
+3.
+Matt Ryan
+QB - ATLPICK 21
+4.
+Tony Romo
+QB - DALPICK 28
+5.
+Mike Evans
+WR - TBPICK 37
+6.
+Jordan Matthews
+WR - PHIPICK 44
+7.
+Melvin Gordon
+RB - SDPICK 53
+8.
+Stephen Gostkowski
+K - NEPICK 60
+9.
+Mike Wallace
+WR - MINPICK 69
+10.
+DeAndre Levy
+LB - DETPICK 76
+11.
+Anquan Boldin
+WR - SFPICK 85
+12.
+C.J. Mosley
+LB - BALPICK 92
+13.
+Stephone Anthony
+LB - NOPICK 101
+14.
+Tevin Coleman
+RB - ATLPICK 108
+15.
+Zach Ertz
+TE - PHIPICK 117
+16.
+Muhammad Wilkerson
+DL - NYJPICK 124
+17.
+Reshad Jones
+DB - MIAPICK 133
+18.
+Teddy Bridgewater
+QB - MINPICK 140
+19.
+Curtis Lofton
+LB - OAKPICK 149
+20.
+Olivier Vernon
+DL - MIAPICK 156
+21.
+Demario Davis
+LB - NYJPICK 165
+22.
+Earl Thomas
+DB - SEAPICK 172
+23.
+Charles Woodson
+DB - OAKPICK 181
+24.
+Doug Baldwin
+WR - SEAPICK 188
+25.
+Greg Hardy
+DL - DALPICK 197
+26.
+Terrance Williams
+WR - DALPICK 204
+27.
+Ha Ha Clinton-Dix
+DB - GBPICK 213
+28.
+Corey Liuget
+DL - SDPICK 220
+29.
+DeAngelo Williams
+RB - PITPICK 229
